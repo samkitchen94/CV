@@ -1,8 +1,12 @@
 # Sam Kitchen
 
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [LinkedIn](https://www.linkedin.com/in/sam-kitchen-a6a771106/) | [Github](https://github.com/samkitchen94)
+
 An analytical and passionate Junior Software Developer currently studying at Makers Academy, a highly selective software development bootcamp in London. Previously I have held a successful career as a Recruitment Consultant but have taken the leap to pursue my passion, a career a Software Developer.
 
 I am looking for a challenging Software Development role that will allow me to build upon the skills I have gained independently and through Makers.
+
+## Projects
 
 ## Skills
 
@@ -11,7 +15,7 @@ I am looking for a challenging Software Development role that will allow me to b
 The 4 month, intensive nature of studying at Makers ensures that all students graduate as an independent learner with the confidence and skills to embrace new technologies. The self-driven nature of the Makers course encourages all students to direct their own learning. This has given me the confidence to not only take on any technical challenge but to embrace learning new technologies.
 
 #### Problem Solving
-
+Makers Academy provides a focus on building internal processes within students so that no matter what the size of the problem, it can be broken down into more manageable problems and an analytical and solution driven process will always be followed.
 
 #### Teamwork
 
@@ -46,16 +50,16 @@ Widely regarded as Europe's leading technology bootcamp based in London.
 #### Calday Grange Grammar School (2005 - 2012)
 
 A-Levels:
-Law - A
-Philosophy - B
-English Literature - C
+- Law - A
+- Philosophy - B
+- English Literature - C
 
 11 GCSE's A-C, including an A in English Literature and a B in Maths
 
 ## Experience
 
-Campion Willcocks (January 2016 - April 2019)    
-Resourcing Consultant
+#### Campion Willcocks (January 2016 - April 2019)    
+#### Resourcing Consultant
 
 Campion Willcocks is a niche recruitment agency & consultancy specialising in business & IT change,
 predominantly within the financial services sector.
