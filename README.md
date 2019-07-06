@@ -10,10 +10,10 @@ I am looking for a challenging Software Development role that will allow me to b
 
 |Project|Description|Technology|Time Taken|Links|
 |---|---|---|---|---|
-|Acebook|A facebook clone built in a team of 6 following agile processes, such as sprints, daily stand ups and retrospective sessions. Features include logging in & signing up, editing & destroying your own posts, posting to a newsfeed and posting on another users wall. |Ruby on Rails, HTML, CSS, Rspec, Capybara, Travis CI (for CICD), PSQL, continuously deployed on Heroku| 10 days |[Github](https://github.com/samkitchen94/acebook-rails-amoeba-boyz), [Heroku Production Site](https://acebook-rails-amoeba-boyz.herokuapp.com/)|
+|Acebook|A facebook clone built in a team of 6 following agile processes, such as sprints, daily stand ups and retrospective sessions. Features include logging in & signing up, editing & destroying your own posts, posting to a newsfeed and posting on another users wall. |Ruby on Rails, HTML, CSS, Rspec, Capybara, Travis CI (for CICD), PostgresSQL, continuously deployed on Heroku| 10 days |[Github](https://github.com/samkitchen94/acebook-rails-amoeba-boyz), [Heroku Production Site](https://acebook-rails-amoeba-boyz.herokuapp.com/)|
 |Bank Account Tech Test|An individual challenge to practice coding under pressure and writing clean code that would be worthy of passing a tech test.|Javascript, Jasmine testing framework|1/2 day|[Github](https://github.com/samkitchen94/bank_tech_test)|
-|News Summary Challenge|An individual weekend challenge using the guardian API to build a single page, front end web app that displays a summary of the latest news articles from the Guardian. |Javascript, Jasmine Testing Framework, Guardian API | 2 days|[Github](https://github.com/samkitchen94/news-summary-challenge)|
-|Makers BnB| | | |[Github](https://github.com/samkitchen94/Makers-Bnb)
+|News Summary Challenge|An individual weekend challenge using the guardian API to build a single page, front end web app that displays a summary of the latest news articles from the Guardian. |Javascript, Jasmine Testing Framework, Guardian API | 2 days|[Github](https://github.com/samkitchen94/news-summary-challenge)
+|Makers BnB| The first group project of the course, using agile methodology. The task was to create a clone of AirBnb as a web app. This involved creating MVC diagrams, planning sprints & breaking down the problem into smaller user stories to ensure all features were added.| Ruby, Sinatra, Rspec, Capybara, PostgresSQL, DataMapper | 5 days |[Github](https://github.com/samkitchen94/Makers-Bnb)
 
 ## Skills
 
