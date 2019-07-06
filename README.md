@@ -8,6 +8,12 @@ I am looking for a challenging Software Development role that will allow me to b
 
 ## Projects
 
+|Project|Description|Technology|Time Taken|Github|
+|---|---|---|---|---|
+|Acebook|A facebook clone built in a team of 6 following agile processes, such as sprints, daily stand ups and retrospective sessions. Features include logging in & signing up, editing & destroying your own posts, posting to a newsfeed and posting on another users wall. |Ruby on Rails, HTML, CSS, Rspec, Capybara, Travis CI (for CICD), PSQL, continuously deployed on Heroku| 10 days |[Github](https://github.com/samkitchen94/acebook-rails-amoeba-boyz), [Heroku Production Site](https://acebook-rails-amoeba-boyz.herokuapp.com/)|
+|Bank Account Tech Test|   |   |   |   |
+|   |   |   |   |   |
+
 ## Skills
 
 #### Fast & Independent Learner
@@ -77,4 +83,4 @@ selection process
 - Implementing strategies for both candidates & client mapping across the UK
 - Consistently hitting or exceeding monthly targets
 
-*** Previous experience available on request ***
+**Previous experience available on request**
