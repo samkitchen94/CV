@@ -2,10 +2,10 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [LinkedIn](https://www.linkedin.com/in/sam-kitchen-a6a771106/) | [Github](https://github.com/samkitchen94)
 
-<a href="https://sourcerer.io/samkitchen94"><img src="https://img.shields.io/badge/Ruby-225%20commits-blue.svg" alt=""></a>
-<a href="https://sourcerer.io/marbuthnott"><img src="https://img.shields.io/badge/JavaScript-48%20commits-blue.svg" alt=""></a>
-<a href="https://sourcerer.io/marbuthnott"><img src="https://img.shields.io/badge/SQL-48%20commits-blue.svg" alt=""></a>
-<a href="https://sourcerer.io/marbuthnott"><img src="https://img.shields.io/badge/CSS-77%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/samkitchen94"><img src="https://img.shields.io/badge/Ruby-242%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/samkitchen94"><img src="https://img.shields.io/badge/JavaScript-110%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/samkitchen94"><img src="https://img.shields.io/badge/SQL-65%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/samkitchen94"><img src="https://img.shields.io/badge/CSS-97%20commits-orange.svg" alt=""></a>
 
 An analytical and passionate Junior Software Developer currently studying at Makers Academy, a highly selective software development bootcamp in London. Previously I have held a successful career as a Recruitment Consultant but have taken the leap to pursue my passion, a career a Software Developer.
 
@@ -15,6 +15,7 @@ I am looking for a challenging Software Development role that will allow me to b
 
 |Project|Description|Technology|Time Taken|Links|
 |---|---|---|---|---|
+|The Power of Truth|A mobile news app that was designed to give readers a full, unbiased view of news and let users know the political bias' and points of view from which they are reading. We used agile processes as well as pair programming and mobbing in a team of 6. Features included a political bias bar for each news outlet, a search function, and filter by political bias.|React Native, Node.js, Jest, Google News API, Javascript, JSX, Circle CI (for CICD), back end continuously deployed on heroku|8 days|[Back End Server Github](https://github.com/samkitchen94/PowerOfTruthServer), [Front End Github](https://github.com/samkitchen94/PowerOfTruth), [Github production site for Back End](https://power-of-truth-server.herokuapp.com/) (not working as API has now expired) |
 |Acebook|A facebook clone built in a team of 6 following agile processes, such as sprints, daily stand ups and retrospective sessions. Features include logging in & signing up, editing & destroying your own posts, posting to a newsfeed and posting on another users wall. |Ruby on Rails, HTML, CSS, Rspec, Capybara, Travis CI (for CICD), PostgresSQL, continuously deployed on Heroku| 10 days |[Github](https://github.com/samkitchen94/acebook-rails-amoeba-boyz), [Heroku Production Site](https://acebook-rails-amoeba-boyz.herokuapp.com/)|
 |Bank Account Tech Test|An individual challenge to practice coding under pressure and writing clean code that would be worthy of passing a tech test.|Javascript, Jasmine testing framework|1/2 day|[Github](https://github.com/samkitchen94/bank_tech_test)|
 |News Summary Challenge|An individual weekend challenge using the guardian API to build a single page, front end web app that displays a summary of the latest news articles from the Guardian. |Javascript, Jasmine Testing Framework, Guardian API | 2 days|[Github](https://github.com/samkitchen94/news-summary-challenge)
