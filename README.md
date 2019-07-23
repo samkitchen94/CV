@@ -7,7 +7,7 @@
 <a href="https://sourcerer.io/samkitchen94"><img src="https://img.shields.io/badge/SQL-65%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/samkitchen94"><img src="https://img.shields.io/badge/CSS-97%20commits-orange.svg" alt=""></a>
 
-An analytical and passionate Junior Software Developer currently studying at Makers Academy, a highly selective software development bootcamp in London. Previously I have held a successful career as a Recruitment Consultant but have taken the leap to pursue my passion, a career a Software Developer.
+An analytical and passionate Junior Software Developer recently finished studying at Makers Academy, a highly selective software development bootcamp in London. Previously I have held a successful career as a Recruitment Consultant but have taken the leap to pursue my passion, a career a Software Developer.
 
 I am looking for a challenging Software Development role that will allow me to build upon the skills I have gained independently and through Makers.
 
