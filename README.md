@@ -46,7 +46,6 @@ The client requests that I worked on in my previous role in Recruitment were usu
 ## Education
 
 #### Makers Academy (April 2019 to Jul 2019)
-Widely regarded as Europe's leading technology bootcamp based in London.
 
 - Ruby, Ruby on Rails, Javascript
 - Test Driven Development and a host of testing frameworks including Rspec, Capybara and Jasmine
@@ -95,8 +94,7 @@ selection process
 - Implementing strategies for both candidates & client mapping across the UK
 - Consistently hitting or exceeding monthly targets
 
+#### Previous Experience
+Previous experience includes bar and retail jobs from when I finished my GCSE's as well as an internship in HR with the Crown Commercial Service during university. Full details of these roles are available on request.
+
 ## Voluntary Experience
-
-
-
-**Previous experience available on request**
